@@ -1,0 +1,7 @@
+x=input("Enter value:")
+y=input("Enter value:")
+temp=x
+x=y
+y=x
+print("After swapping value of x:",x)
+print("After swapping value of y:",y)
